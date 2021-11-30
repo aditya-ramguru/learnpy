@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67c0bba3-a451-4d27-87c7-a34a51c85cac" name="Default Changelist" comment="updated diagonal.py&#10;adding internal pycharm files from .idea" />
+    <list default="true" id="67c0bba3-a451-4d27-87c7-a34a51c85cac" name="Default Changelist" comment="updated diagonal.py&#10;adding internal pycharm files from .idea">
+      <change afterPath="$PROJECT_DIR$/../python_course/Project10 [hirst_painting]/damien-hirst-spot-painting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/Project10 [hirst_painting]/painting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/turtle_randomWalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/turtle_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_19 [etch_a_sketch]/etch_a_sketch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_19 [etch_a_sketch]/turtle_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/scroreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_24 [files]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_24 [files]/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4_csq3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/sum_of_left_to_sum_of_right.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversh_polish_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +44,122 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.29_11">
+    <configuration name="29_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="m4_csq3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4_csq3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="m4csq4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4csq4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="m4csq5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4csq5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reversh_polish_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reversh_polish_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.29_11" />
+        <item itemvalue="Python.m4csq5" />
+        <item itemvalue="Python.m4csq4" />
+        <item itemvalue="Python.m4_csq3" />
+        <item itemvalue="Python.reversh_polish_calculator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
