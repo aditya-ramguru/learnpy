@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c0bba3-a451-4d27-87c7-a34a51c85cac" name="Default Changelist" comment="updated diagonal.py&#10;adding internal pycharm files from .idea">
-      <change afterPath="$PROJECT_DIR$/../python_course/Project10 [hirst_painting]/damien-hirst-spot-painting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/Project10 [hirst_painting]/painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/spirograph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/turtle_randomWalk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_18 [Turtle]/turtle_shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_19 [etch_a_sketch]/etch_a_sketch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_19 [etch_a_sketch]/turtle_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/scroreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_22 [pong]/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_24 [files]/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_course/day_24 [files]/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4_csq3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject/sum_of_left_to_sum_of_right.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversh_polish_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_20 [snake_game]/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_27 [tkinter]/basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_27 [tkinter]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_27 [tkinter]/mile_to_km.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_27 [tkinter]/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_28 [pomodoro]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_28 [pomodoro]/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_29 [password_manager]/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_29 [password_manager]/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_29 [password_manager]/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_29 [password_manager]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/data/french_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_course/day_31 [Flash_card]/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_course/day_24 [files]/Mail+Merge+Project+Start/Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_course/day_24 [files]/Mail+Merge+Project+Start/Mail Merge Project Start/Input/Names/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tupleex.py" beforeDir="false" afterPath="$PROJECT_DIR$/tupleex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="21ARaCxyIERxQ8bBvNA4NlPmEsa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.29_11">
+  <component name="RunManager" selected="Python.practice">
     <configuration name="29_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="worked" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="m4_csq3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="worked" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4_csq3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubble.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="m4csq4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hackerrank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="worked" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4csq4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="m4csq5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="worked" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m4csq5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reversh_polish_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tupleex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="worked" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reversh_polish_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tupleex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.bubble" />
+        <item itemvalue="Python.tupleex" />
+        <item itemvalue="Python.hackerrank" />
         <item itemvalue="Python.29_11" />
-        <item itemvalue="Python.m4csq5" />
-        <item itemvalue="Python.m4csq4" />
-        <item itemvalue="Python.m4_csq3" />
-        <item itemvalue="Python.reversh_polish_calculator" />
       </list>
     </recent_temporary>
   </component>
