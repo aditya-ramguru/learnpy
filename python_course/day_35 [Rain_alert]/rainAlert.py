@@ -1,7 +1,7 @@
 import requests
-import os    # rq
+# import os    # rq
 from twilio.rest import Client
-from twilio.http.http_client import TwilioHttpClient  #rq
+# from twilio.http.http_client import TwilioHttpClient  #rq
 
 # rq = required to run in pythonanywhere found the extra stuff in google.
 
@@ -10,8 +10,8 @@ account_sid = 'ACccc504cf132dbb585b78830ac90d9562'
 auth_token = '8032487fbe9465d08d824fbd029e51b7'
 
 parameters = {
-    'lat': 4.938000,
-    'lon': -52.335049,
+    'lat': -28.475860,
+    'lon': -65.812090,
     'exclude': 'current,minutely,daily',
     'appid': api_key,
 }
@@ -29,10 +29,9 @@ for item in weather_id_12:
 
 # noinspection PyUnboundLocalVariable
 if will_rain:
-    proxy_client = TwilioHttpClient() # rq
-    proxy_client.session.proxies = {'https': os.environ['https_proxy']}  # rq
+      # rq
 
-    client = Client(account_sid, auth_token, http_client=proxy_client)  # rq, http_client
+    client = Client(account_sid, auth_token,)  # rq, http_client
     message = client.messages \
         .create(
         body="it is going to rain today bring an umbrella!",
