@@ -18,9 +18,9 @@ song_name = [item.getText().strip() for item in soup.select(selector="li h3", id
 
 # spotify
 CLIENT_ID = os.environ['SPOTIPY_CLIENT_ID']
-print(CLIENT_ID)
+# print(CLIENT_ID)
 CLIENT_SECRET = os.environ['SPOTIPY_CLIENT_SECRET']
-print(CLIENT_SECRET)
+# print(CLIENT_SECRET)
 REDIRECT_URI = os.environ["SPOTIPY_REDIRECT_URI"]
 scope = "playlist-modify-private"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))

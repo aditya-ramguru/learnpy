@@ -1,0 +1,3 @@
+Welcome to VIT
+this is an example of file copy
+function
