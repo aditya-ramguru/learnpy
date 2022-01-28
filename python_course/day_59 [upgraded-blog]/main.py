@@ -47,7 +47,7 @@ def receive_data():
 
 
 # can put the contents of receive data in contact and change the url_for receive data to url_for contact that way the code
-# becomes more concise and clean
+# becomes more concise and clean can use if requests.method == post
 
 if __name__== '__main__':
     app.run(debug=True)
