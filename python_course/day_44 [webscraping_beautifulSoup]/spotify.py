@@ -7,7 +7,7 @@ from spotipy.oauth2 import SpotifyOAuth
 
 
 user_input = input("Which year do you want to travel to type the date in this format YYYY-MM-DD: ")
-response = requests.get(url=f"https://www.billboard.com/charts/hot-100/2011-11-09/")
+response = requests.get(url=f"https://www.billboard.com/charts/hot-100/{user_input}/")
 response.raise_for_status()
 webpage = response.text
 
